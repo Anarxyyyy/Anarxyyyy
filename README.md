@@ -1,10 +1,9 @@
-## Hi im anarxy!
+## Greetings huzz and bruzz
 
-- 🔭 I’m currently working on web game hacks
-- 🌱 I’m currently js, C#, and python
-- 👯 I’m looking to collaborate on nothing, because im batman, and work alone
-- 🤔 I’m looking for help with because im still batman, and work alone
-- 💬 Ask me about whatever
-- 📫 How to reach me: @anarxyfr on discord
-- 😄 Pronouns: he/him
+I'm working on like nothing 
+Chosen languages are C#, python, assembly, C, and html 
+I am very tuff💯
 
+Socials
+https://www.tiktok.com/@anarxyyfr
+https://www.youtube.com/@Anarxy
