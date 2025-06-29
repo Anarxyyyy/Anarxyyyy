@@ -1,8 +1,17 @@
-## Greetings huzz and bruzz
+## Greetings huzz
 
 I'm working on like nothing  
-Chosen languages are C#, python, assembly, C, and html  
-I am very tuff💯  
+Languages I kinda know
+Python
+C#
+Languages I plan to learn in the future
+Scheme
+Rust
+C
+C++
+Assembly
+Maybe java since it's similar to as C#
+I am quite tuff💯  
 
 **Socials**  
 https://www.tiktok.com/@anarxyyfr  
