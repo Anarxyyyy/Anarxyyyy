@@ -6,7 +6,7 @@ Languages I kinda know
 Python  
 C#
 
-Languages I plan to learn in the future  
+Languages I plan to learn in the future(and might know but ehh) 
 Scheme  
 Rust  
 C  
