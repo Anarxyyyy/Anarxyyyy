@@ -5,15 +5,10 @@ I'm working on like nothing
 Languages I kinda know  
 Python  
 C#
-
-Languages I plan to learn in the future(and might know but ehh) 
-Scheme  
-Rust  
-C  
-C++  
-Assembly  
-Maybe java since it's similar to as C#  
-I am quite tuff💯  
+C/C++
+asm
+GO
+and a few others I don't feel like listing
 
 **Socials**  
 https://www.tiktok.com/@anarxyyfr  
