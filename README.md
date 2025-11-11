@@ -1,6 +1,6 @@
 ## Greetings huzz
 
-I'm working on like nothing
+Currently working on like nothing
 
 Languages I kinda know  
 Python  
