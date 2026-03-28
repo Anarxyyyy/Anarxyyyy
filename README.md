@@ -1,6 +1,6 @@
-## Greetings huzz
+15 y/o dev
 
-Currently working on like nothing
+in a mc mod/plugin "phase" rn
 
 Languages I kinda know  
 Python  
@@ -12,5 +12,8 @@ Rust(ass at)
 and a few others I don't feel like listing
 
 **Socials**  
-https://www.tiktok.com/@anarxyyfr  
-https://www.youtube.com/@Anarxy
+https://modrinth.com/user/Anarxyyyy
+
+**Organization**
+https://github.com/Picture-Perfect-Collection
+(the org has my bigger scaled projects, mostly mc)
